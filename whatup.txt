@@ -5,5 +5,5 @@ password:
 1.profile page code
 2.chat screen code
 3.Last seen code
-4.Attachment(Image,Audio,video)
+4.Attachment(Image,Audio,video,txt)
 5.adding call features
